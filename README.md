@@ -3,7 +3,7 @@ Hi guys 👋
 * I live in Brazil, Rio de Janeiro
 * I'm looking for a job opportunity for Junior Developer.
 * At the moment I am studying Java, Ruby, Python and React Native.
-
+* 
 ## Skills:
 <div>
   <img src="https://logodownload.org/wp-content/uploads/2019/10/python-logo.png" height="50"/>
@@ -16,9 +16,6 @@ Hi guys 👋
   <img src="https://cdn-icons-png.flaticon.com/128/888/888847.png" height="50"/>
   <img src="https://cdn-icons-png.flaticon.com/128/1199/1199124.png" height="50"/>
   <img src="https://cdn-icons-png.flaticon.com/128/5968/5968332.png" height="50"/>
-<div>
-  
-Contatc:
-<div>
-  <img src="https://cdn-icons.flaticon.com/png/128/3536/premium/3536505.png?token=exp=1647024661~hmac=0ef663dfcc816e77bc3b8fea28dbe72b" height="20"
-<div>
+</div>
+<br></br>
+#### Contact:
