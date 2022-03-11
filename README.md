@@ -3,7 +3,7 @@ Hi guys 👋
 * I live in Brazil, Rio de Janeiro
 * I'm looking for a job opportunity for Junior Developer.
 * At the moment I am studying Java, Ruby, Python and React Native.
-* 
+<br></br>
 ## Skills:
 <div>
   <img src="https://logodownload.org/wp-content/uploads/2019/10/python-logo.png" height="50"/>
@@ -18,12 +18,13 @@ Hi guys 👋
   <img src="https://cdn-icons-png.flaticon.com/128/5968/5968332.png" height="50"/>
 </div>
 <br></br>
+<br></br>
 
-#### Contact:
 <div>
-  <img src="https://cdn-icons.flaticon.com/png/128/3536/premium/3536505.png?token=exp=1647024661~hmac=0ef663dfcc816e77bc3b8fea28dbe72b" height="20"/>
+  <img src="https://cdn-icons.flaticon.com/png/128/3536/premium/3536505.png?token=exp=1647024661~hmac=0ef663dfcc816e77bc3b8fea28dbe72b" height="15"/>
   <a href="https://www.linkedin.com/in/carlosedilsonjr/" style="font-size='1'"}>Carlos Edilson Junior</a>
-  <br></br>
-  <img src="https://cdn-icons-png.flaticon.com/128/2111/2111463.png" height="20"/>
+</div>
+<div>
+  <img src="https://cdn-icons-png.flaticon.com/128/2111/2111463.png" height="15"/>
   <a href="https://www.instagram.com/carlosedilsonjr/">@carlosedilsonjr</a>
 </div>
