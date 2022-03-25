@@ -11,10 +11,8 @@ Hi guys 👋
   <img src="https://pagepro.co/blog/wp-content/uploads/2020/03/react-native-logo-884x1024.png" height="50"/>
   <img src="https://atomrace.com/blog/wp-content/uploads/2018/05/spring-boot-logo-300x158.png" height="50"/>
   
-  <img src="https://cdn-icons.flaticon.com/png/128/3593/premium/3593474.png?token=exp=1647024539~hmac=c8f25ff642638e0a5e6ba56070cb4800" height="50">
-  
   <img src="https://th.bing.com/th/id/R.f6030bb0c464a063cfb3d98d3628ef33?rik=GMgtCyW7EXHMtw&pid=ImgRaw&r=0" height="50"/>
-  <img src="https://cdn-icons.flaticon.com/png/128/5815/premium/5815478.png?token=exp=1647023590~hmac=5c14115efb09b39e0b3f4e2cae9abd7c" height="50"/>
+
   <img src="https://cdn-icons-png.flaticon.com/128/888/888859.png" height="50"/>
   <img src="https://cdn-icons-png.flaticon.com/128/888/888847.png" height="50"/>
   <img src="https://cdn-icons-png.flaticon.com/128/1199/1199124.png" height="50"/>
@@ -23,6 +21,6 @@ Hi guys 👋
 <br></br>
 
 <div>
-  <img src="https://cdn-icons.flaticon.com/png/128/3536/premium/3536505.png?token=exp=1647024661~hmac=0ef663dfcc816e77bc3b8fea28dbe72b" height="20"/>
+  <img src="https://th.bing.com/th/id/R.ef7c744be2f78c8dc1fd6c9ec2b22c33?rik=sa128jy3lFgTGA&riu=http%3a%2f%2fwww.northernlightspr.com%2fwp-content%2fuploads%2f2015%2f08%2fLinkedIn.png&ehk=WtYCQF7SDlWe7q876gDwMKqIoUoj%2b8g%2bMGm84pQDxUo%3d&risl=&pid=ImgRaw&r=0" height="20"/>
   <a href="https://www.linkedin.com/in/carlosedilsonjr/" style="font-size='1'"}>Carlos Edilson Junior</a>
 </div>
